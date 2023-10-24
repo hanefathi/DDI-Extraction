@@ -1,2 +1,1 @@
-# DDI-Extraction
-Introducing a novel approach for extracting drug interactions from text: employing a two-stage dissection method based on Random Forest, tailored for multiclass and unbalanced distribution datasets.
+Drug-Drug Interaction (DDI) extraction using Random Forest: We conducted experiments on a 64-bit system equipped with 4 GB of RAM, and an Intel Core i3 CPU. The code was executed in Python 3.9 within the PyCharm IDE, utilizing libraries such as pandas, spaCy, tqdm, numpy, NLTK, and scikit-learn. To run the code successfully, you will require four essential files: main.py, train.py, read_dataset.py, and feature_vector.py.
